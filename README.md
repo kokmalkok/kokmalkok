@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantin Malkoiv
+- 👋 Hi, I’m Konstantin Malkoiv. If u want to contact me, here is my email - kmalkov_1995@mail.ru or write me in direct in instagramm - https://www.instagram.com/kokmalkok/
 - 👀 I’m interested in App Development on iOS platform
 - 🌱 I’m currently learning Swift. In future i plan to learn python and SQL Database
 - 💞️ I’m looking to collaborate on app and website
