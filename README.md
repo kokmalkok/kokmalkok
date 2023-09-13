@@ -12,15 +12,15 @@ At the moment I work as a freelancer and work both on small projects on my own a
 
 ### Stack Development:   
 - Swift;
--UIKit;
--MVC,MVP,MVVM;
--SnapKit;
--CoreData/Realm;
--Alamofire/REST API;
--Storyboard/Autolayouts;
--Keychain;
--Firebase;
--Firebase Cloud Message/OneSignal  
+- UIKit;
+- MVC,MVP,MVVM;
+- SnapKit;
+- CoreData/Realm;
+- Alamofire/REST API;
+- Storyboard/Autolayouts;
+- Keychain;
+- Firebase;
+- Firebase Cloud Message/OneSignal  
   
 
 <div align="center">  
