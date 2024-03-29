@@ -1,7 +1,7 @@
 ## **Hello, my Name is Konstantin**  
   
 
-### <div align="center">I am Middle iOS-Developer 👨‍💻 working from 2020</div>  
+### <div align="center">I am iOS Software Engineer 👨‍💻 working from 2020</div>  
   
 
 I have been developing mobile applications since 2020. My journey began with the first time I encountered development on the iOS platform, when I had to choose a topic and idea for a thesis. And subsequently this became decisive for my future path.
